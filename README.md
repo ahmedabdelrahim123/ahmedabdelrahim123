@@ -1,4 +1,3 @@
-GIF
 
 👨🏻‍💻 About Me
 
