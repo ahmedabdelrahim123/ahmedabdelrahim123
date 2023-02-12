@@ -21,6 +21,7 @@
 
 🤝🏻 Contact
 
-https://www.linkedin.com/feed/?trk=onboarding-landing
+https://www.linkedin.com/in/ahmed-abd-el-rahim-076a32217/
+
 
 aahmabdelrahim60@gmail.com
