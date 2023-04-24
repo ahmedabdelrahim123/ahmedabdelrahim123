@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahmed M.Abdelrahim</h1>
 <h3 align="center">A passionate fullstack developer from Egypt</h3>
 
-<img align="right" alt="GIF" src="https://github.com/mahmoud-elbasiony/mahmoud-elbasiony/blob/main/gif3.gif" width="500"/>
+<img align="right" alt="GIF" src="dev.gif" width="400"/>
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; I'm graduated from Faculty of Engineering Alexandria University Computer Communication Department 
