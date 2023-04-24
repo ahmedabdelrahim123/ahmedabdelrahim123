@@ -2,7 +2,15 @@
 <h3 align="center">A passionate fullstack developer from Egypt</h3>
 
 <img align="right" alt="GIF" src="https://github.com/mahmoud-elbasiony/mahmoud-elbasiony/blob/main/gif3.gif" width="500"/>
+<h3> 👨🏻‍💻 About Me </h3>
 
+- 🎓 &nbsp; I'm graduated from Faculty of Engineering Alexandria University Computer Communication Department 
+- 💼 &nbsp; I’m currently Training at ITI - information technology institute as an Open source applications developer.
+- 🌱 &nbsp; Currently learning Fullstack web development.
+- 🤔 &nbsp; Exploring new technologies and developing software solutions.
+- 🔭 &nbsp; Excited for tommorrow and future endeavors.
+- ✍️ &nbsp; My key is always improving.
+<br>
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="mailto:aahmed.mabdelrahim60@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
