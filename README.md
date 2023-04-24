@@ -6,7 +6,7 @@
 <h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="mailto:aahmed.mabdelrahim60@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a> 
-<a href="https:"https://www.linkedin.com/in/ahmed-abd-el-rahim-076a32217/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+<a href="https://www.linkedin.com/in/ahmed-abd-el-rahim-076a32217/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 <!--   <a href="https://www.facebook.com/ahmed.abdelrahim.507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024501571934" height="30" width="40" /></a>
   <a href="https://www.instagram.com/Ahmed_m.abdelrahim/?fbclid=IwAR2TBLGx8HKC93FiHZ-d3dNnjp7-OEB9aZsqZqHOoPtw-57JTRCZzdv0Y20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Ahmed_m.abdelrahim/?fbclid=IwAR2TBLGx8HKC93FiHZ-d3dNnjp7-OEB9aZsqZqHOoPtw-57JTRCZzdv0Y20" height="30" width="40" /></a>
 </p> -->
