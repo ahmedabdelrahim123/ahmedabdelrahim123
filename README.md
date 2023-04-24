@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Ahmed Mohamed Abdelrahim</h1>
 <h3 align="center">A passionate fullstack developer from Egypt</h3>
 
-<p align="left"> <img src="https://raw.githubusercontent.com/NadaAlaaEldeen/NadaAlaaEldeen/main/README%20picture/9be400_457e1609536042398548c52937e04b27_mv2.gif" alt="asmaagamal871" /> </p>
+
 
 - 📫 How to reach me **aahmed.mabdelrahim60@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="www.linkedin.com/in/ahmed-abd-el-rahim-076a32217" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asmaa-gamal-el-din-hamed-02893a166/" height="30" width="40" /></a>
-
   <a href="https://www.facebook.com/ahmed.abdelrahim.507/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100024501571934" height="30" width="40" /></a>
-
   <a href="https://www.instagram.com/Ahmed_m.abdelrahim/?fbclid=IwAR2TBLGx8HKC93FiHZ-d3dNnjp7-OEB9aZsqZqHOoPtw-57JTRCZzdv0Y20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/Ahmed_m.abdelrahim/?fbclid=IwAR2TBLGx8HKC93FiHZ-d3dNnjp7-OEB9aZsqZqHOoPtw-57JTRCZzdv0Y20" height="30" width="40" /></a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
