@@ -5,8 +5,7 @@
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🎓 &nbsp; I'm graduated from Faculty of Engineering Alexandria University Computer Communication Department 
-- 💼 &nbsp; I’m currently Training at ITI - information technology institute as an Open source applications developer.
-- 🌱 &nbsp; Currently learning Fullstack web development.
+- 💼 &nbsp; I have successfully completed the diploma program at the ITI (Information Technology Institute) as an Open Source Applications Developer.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions.
 - 🔭 &nbsp; Excited for tommorrow and future endeavors.
 - ✍️ &nbsp; My key is always improving.
